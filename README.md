@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pedro24212
+- 👋 Hi, I’m Pedro Lucas!
 - 👀 I’m interested in programming!
 - 🌱 I’m currently learning PYTHON.
 - 📫 Twitter: @pedroka242
