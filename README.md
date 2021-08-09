@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pedro24212
+- 👀 I’m interested in programming!
+- 🌱 I’m currently learning PYTHON.
+- 📫 Twitter: @pedroka242
